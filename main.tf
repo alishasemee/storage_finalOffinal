@@ -23,7 +23,7 @@ variable "storage" {
   default = {
     rsc_name     = "rsc_name"
     rsc_location = "east us"
-    storage_name = "kittu908"
+    storage_name = "kittu9083124234"
     account_tier = "Standard"
     rep_type     = "LRS"
   }
